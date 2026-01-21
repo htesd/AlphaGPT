@@ -1,3 +1,8 @@
+#由于对于imbue的揭露持续遭到对方捂嘴,故建立此fork,wayback machine[快照](https://web.archive.org/web/20260119125628/https://github.com/imbue-bit/AlphaGPT/issues/14)
+
+
+
+#以下为原始readme
 # AlphaGPT
 
 [README_EN.md](README_EN.md)
